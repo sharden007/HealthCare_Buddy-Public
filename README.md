@@ -28,7 +28,6 @@
 
 ## 🚀 NEW: AI-Powered Features
 
-<div align="center">
 
 ### 📸 **Prescription Scanner**
 *Powered by Google ML Kit Text Recognition*
