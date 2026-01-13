@@ -28,6 +28,7 @@
 
 ## 🚀 NEW: AI-Powered Features
 
+<div align="center">
 
 ### 📸 **Prescription Scanner**
 *Powered by Google ML Kit Text Recognition*
@@ -91,8 +92,7 @@ Adding: Warfarin (blood thinner)
 ---
 
 ## ✨ Core Features
-<div align="center">
-  
+
 ### 💊 Complete Medication Management
 - ✅ **Prescription Scanner** - AI-powered OCR (NEW!)
 - ✅ **Drug Interactions** - Real-time safety alerts (NEW!)
