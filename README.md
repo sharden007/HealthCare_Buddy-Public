@@ -155,7 +155,7 @@ Adding: Warfarin (blood thinner)
 | 🏠 Dashboard | 💊 Medications | 🚨 Allergies |
 |:---:|:---:|:---:|
 | *Unified health overview* | *Complete med history* | *Severity-based sorting* |
-| ![Dashboard](../screenshots/dashboard.png) | ![Medications](../screenshots/medications.png) | ![Allergies](../screenshots/allergies.png) |
+| ![Dashboard](/screenshots/dashboard.png) | ![Medications](../screenshots/medications.png) | ![Allergies](../screenshots/allergies.png) |
 
 | 💉 Immunizations | 🩺 Blood Pressure | 👤 Profile |
 |:---:|:---:|:---:|
