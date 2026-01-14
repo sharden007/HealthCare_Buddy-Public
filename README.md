@@ -24,8 +24,8 @@
 | Personalized preventive care reminders | Your data never leaves your device | Zero internet required | Intuitive UX |
 
 </div>
-
 ---
+
 ## 📱 Screenshots
 
 <div align="center">
@@ -36,6 +36,20 @@
 |:---:|:---:|:---:|
 | *Snap photo → AI extracts data* | *Real-time safety warnings* | *Personalized reminders* |
 | ![Scanner](../screenshots/prescription_scanner.png) | ![Interactions](../screenshots/drug_interactions.png) | ![Preventive](../screenshots/preventive_care.png) |
+
+### 📊 Core Functionality
+
+| 🏠 Dashboard | 💊 Medications | 🚨 Allergies |
+|:---:|:---:|:---:|
+| *Unified health overview* | *Complete med history* | *Severity-based sorting* |
+| ![Dashboard](../screenshots/dashboard.png) | ![Medications](../screenshots/medications.png) | ![Allergies](../screenshots/allergies.png) |
+
+| 💉 Immunizations | 🩺 Blood Pressure | 👤 Profile |
+|:---:|:---:|:---:|
+| *Vaccine records & lot numbers* | *OCR scanning + charts* | *Personal health info* |
+| ![Immunizations](../screenshots/immunizations.png) | ![BP](../screenshots/blood_pressure.png) | ![Profile](../screenshots/profile.png) |
+
+</div>
 
 ---
 ## 🚀 NEW: AI-Powered Features
@@ -147,22 +161,6 @@ Adding: Warfarin (blood thinner)
 - ✅ **Glucose Log** - Weekly glucose tracking in PDF exports
 - ✅ **Encrypted Backups** - Save to Downloads/HealthcareBuddy folder
 - ✅ **One-Click Restore** - Easy data recovery from backup files
-
----
-
-### 📊 Core Functionality
-
-| 🏠 Dashboard | 💊 Medications | 🚨 Allergies |
-|:---:|:---:|:---:|
-| *Unified health overview* | *Complete med history* | *Severity-based sorting* |
-| ![Dashboard](../screenshots/dashboard.png) | ![Medications](../screenshots/medications.png) | ![Allergies](../screenshots/allergies.png) |
-
-| 💉 Immunizations | 🩺 Blood Pressure | 👤 Profile |
-|:---:|:---:|:---:|
-| *Vaccine records & lot numbers* | *OCR scanning + charts* | *Personal health info* |
-| ![Immunizations](../screenshots/immunizations.png) | ![BP](../screenshots/blood_pressure.png) | ![Profile](../screenshots/profile.png) |
-
-</div>
 
 ---
 
