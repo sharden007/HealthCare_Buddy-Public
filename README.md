@@ -9,6 +9,7 @@
 [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Modern%20UI-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
 
 [✨ Features](#-ai--smart-features) • [📸 Screenshots](#-screenshots) • [🗺️ Roadmap](#-roadmap)
 
@@ -25,7 +26,18 @@
 </div>
 
 ---
+## 📱 Screenshots
 
+<div align="center">
+
+### 🤖 AI Features in Action
+
+| 📸 Prescription Scanner | ⚠️ Drug Interaction Alert | 🎯 Preventive Care |
+|:---:|:---:|:---:|
+| *Snap photo → AI extracts data* | *Real-time safety warnings* | *Personalized reminders* |
+| ![Scanner](../screenshots/prescription_scanner.png) | ![Interactions](../screenshots/drug_interactions.png) | ![Preventive](../screenshots/preventive_care.png) |
+
+---
 ## 🚀 NEW: AI-Powered Features
 
 <div align="center">
@@ -138,28 +150,17 @@ Adding: Warfarin (blood thinner)
 
 ---
 
-## 📱 Screenshots
-
-<div align="center">
-
-### 🤖 AI Features in Action
-
-| 📸 Prescription Scanner | ⚠️ Drug Interaction Alert | 🎯 Preventive Care |
-|:---:|:---:|:---:|
-| *Snap photo → AI extracts data* | *Real-time safety warnings* | *Personalized reminders* |
-| ![Scanner](/screenshots/prescription_scanner.png) | ![Interactions](/screenshots/drug_interactions.png) | ![Preventive](/screenshots/preventive_care.png) |
-
 ### 📊 Core Functionality
 
 | 🏠 Dashboard | 💊 Medications | 🚨 Allergies |
 |:---:|:---:|:---:|
 | *Unified health overview* | *Complete med history* | *Severity-based sorting* |
-| ![Dashboard](/screenshots/dashboard.png) | ![Medications](/screenshots/medications.png) | ![Allergies](/screenshots/allergies.png) |
+| ![Dashboard](../screenshots/dashboard.png) | ![Medications](../screenshots/medications.png) | ![Allergies](../screenshots/allergies.png) |
 
 | 💉 Immunizations | 🩺 Blood Pressure | 👤 Profile |
 |:---:|:---:|:---:|
 | *Vaccine records & lot numbers* | *OCR scanning + charts* | *Personal health info* |
-| ![Immunizations](/screenshots/immunizations.png) | ![BP](/screenshots/blood_pressure.png) | ![Profile](/screenshots/profile.png) |
+| ![Immunizations](../screenshots/immunizations.png) | ![BP](../screenshots/blood_pressure.png) | ![Profile](../screenshots/profile.png) |
 
 </div>
 
@@ -238,7 +239,7 @@ Adding: Warfarin (blood thinner)
 
 Designed and Coded by Shawn R. Harden - (Harden Business Consulting LLC.)
 
-[⬆ Back to Top](#-healthcare buddy)
+[⬆ Back to Top](#-health-buddy)
 
 </div>
 
