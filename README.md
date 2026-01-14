@@ -9,7 +9,6 @@
 [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Modern%20UI-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
 
 [✨ Features](#-ai--smart-features) • [📸 Screenshots](#-screenshots) • [🗺️ Roadmap](#-roadmap)
 
@@ -239,7 +238,7 @@ Adding: Warfarin (blood thinner)
 
 Designed and Coded by Shawn R. Harden - (Harden Business Consulting LLC.)
 
-[⬆ Back to Top](#-health-buddy)
+[⬆ Back to Top](#-healthcare buddy)
 
 </div>
 
