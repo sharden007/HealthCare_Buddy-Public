@@ -23,5 +23,5 @@ Our app does not knowingly collect any data from children under the age of 13.
 
 ### 5. Contact Information
 If you have questions regarding this policy, please contact us at:
-* **Email:** Sharden007@gmail.comm
+* **Email:** privacy@harden-ai.comm
 * **Address:** New Jersey, U.S.A.
