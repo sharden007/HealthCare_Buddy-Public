@@ -164,7 +164,7 @@ Adding: Warfarin (blood thinner)
 | 💉 PDF - Patient Info | PDF - History | 🩺 PDF - Office Visit Notes |
 |:---:|:---:|:---:|
 | *Patient Info* | *Medical History* | *Dr Visit Notes* |
-| ![Immunizations](/screenshots/Patient.jpg) | ![BP](/screenshots/blood_pressure.png) | ![Profile](/screenshots/profile.png) |
+| ![Immunizations](/screenshots/Patient.jpg) | ![BP](/screenshots/History.jpg) | ![Profile](/screenshots/Doctor.jpg) |
 
 </div>
 
