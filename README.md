@@ -161,7 +161,7 @@ Adding: Warfarin (blood thinner)
 | *Vaccine records & lot numbers* | *OCR scanning + charts* | *Personal health info* |
 | ![Immunizations](/screenshots/immunizations.png) | ![BP](/screenshots/blood_pressure.png) | ![Profile](/screenshots/profile.png) |
 
-| 💉 PDF - Patient Info | PDF - History | 🩺 PDF - Office Visit Notes | 👤 Profile |
+| 💉 PDF - Patient Info | PDF - History | 🩺 PDF - Office Visit Notes |
 |:---:|:---:|:---:|
 | *Patient Info* | *Medical History* | *Dr Visit Notes* |
 | ![Immunizations](/screenshots/immunizations.png) | ![BP](/screenshots/blood_pressure.png) | ![Profile](/screenshots/profile.png) |
